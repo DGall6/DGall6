@@ -1,4 +1,4 @@
 ## Howdy 👋
-- 🌱 I’m a first year student at Waukesha County Technical College and am brand new to coding
+- 🌱 I’m a second year student at Waukesha County Technical College
 - 😄 Pronouns: He/Him
 - 🔭 Interests: Music, guitar, and Discrete Signal Processing
